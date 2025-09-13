@@ -7,7 +7,7 @@ if (!/^-?\d+$/.test(squareSize[0])){
     let i = 0;
 
     while (i < squareSize[0]) {
-        console.log("x".repeat(squareSize[0]));
+        console.log("X".repeat(squareSize[0]));
              i++; 
     }
 }
